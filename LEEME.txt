@@ -1,0 +1,30 @@
+PORTAFOLIO RAMIRO FERNÁNDEZ - VERSIÓN GITHUB PAGES
+
+Todos los archivos están en UNA SOLA CARPETA para facilitar la carga con GitHub > Upload files.
+
+Subí juntos estos archivos en la raíz del repositorio:
+- index.html
+- style.css
+- script.js
+- fondo.webp
+- portafolio.png
+- profile.webp
+- proyecto1.webp
+- proyecto2.webp
+- proyecto3.webp
+- proyecto4.webp
+
+IMPORTANTE:
+- No crees una carpeta assets.
+- No cambies los nombres de los archivos.
+- index.html debe quedar en la raíz del repositorio.
+- Las rutas del HTML y CSS ya están preparadas para funcionar con todos los archivos en el mismo nivel.
+
+GitHub Pages servirá index.html automáticamente.
+
+AJUSTE FINAL:
+- Márgenes unificados en todas las secciones.
+- Tipografía ligeramente ampliada y equilibrada.
+- Espaciados y tarjetas normalizados.
+- Logo profesional azul/plata optimizado.
+- Todos los archivos continúan en una única carpeta para GitHub Pages.
